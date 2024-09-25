@@ -1,4 +1,6 @@
 Rapport de KAGONE Yasmine Oulia:
+
+
 Ce laboratoire nous a permit d'apprendre à utiliser l'outil de travail GitHub. Cet outil permet la gestion
 de projet et la collaboration en équipe. Il permet a plusieurs personnes d'une même équipe de travailler sur
 le même projet. Lors d'un projet d'équipe, le travail peut être subdivisé en plusieurs parties attribuées
